@@ -1,7 +1,7 @@
 # Before-and-After-sliders
 | Repo                                                                | Base                              | Features                                                         |
 |:--------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------------|
-| <div>https://github.com/xsahil03x/before_after</div><div><br></div> | Flutter                           | Gifs                                                             |
+| https://github.com/xsahil03x/before_after | Flutter                           | Gifs                                                             |
 | https://github.com/jotform/before-after.js                          | JS/HTML/CSS                       |                                                                  |
 | https://github.com/developer--/before_after_slider                  | Kotlin                            |                                                                  |
 | https://github.com/transitive-bullshit/react-before-after-slider    | JS/HTML/CSS                       |                                                                  |
