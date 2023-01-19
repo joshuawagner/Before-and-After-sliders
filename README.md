@@ -1,2 +1,13 @@
 # Before-and-After-sliders
-This is a collection of before and after sliders that I found
+| Repo                                                                | Base                              | Features                                                         |
+|:--------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------------|
+| <div>https://github.com/xsahil03x/before_after</div><div><br></div> | Flutter                           | Gifs                                                             |
+| https://github.com/jotform/before-after.js                          | JS/HTML/CSS                       |                                                                  |
+| https://github.com/developer--/before_after_slider                  | Kotlin                            |                                                                  |
+| https://github.com/transitive-bullshit/react-before-after-slider    | JS/HTML/CSS                       |                                                                  |
+| https://github.com/NUKnightLab/juxtapose                            | JS/HTML/CSS/Python                | Gifs and Code generator at&nbsp;https://juxtapose.knightlab.com/ |
+| https://github.com/salihgueler/flutter_before_after_image           | Dart/Objective-C, Java, Ruby      |                                                                  |
+| https://github.com/factoryhr/BeforeAndAfterView                     | Kotlin                            |                                                                  |
+| https://github.com/roeib/Before-After-React                         | JS/HTML/CSS                       |                                                                  |
+| https://github.com/sneas/img-comparison-slider                      | TypeScript/SCSS/JS/HTML/Shell/CSS |                                                                  |
+| https://github.com/kylewetton/image-compare-viewer                  | JS/SCSS/HTML                      |                                                                  |  e
